@@ -1,0 +1,40 @@
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojeto.accdb
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.exe.config
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.exe
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.pdb
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.xml
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.vbprojAssemblyReference.cache
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Resources.resources
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.vbproj.GenerateResource.cache
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.vbproj.CoreCompileInputs.cache
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.exe
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.xml
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.pdb
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Index.resources
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Carros.resources
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.Designer.vb
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.xsc
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.xsd
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.xss
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Clientes.resources
+F:\12º ano\Programação\Módulo 17A\Projeto\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Vendas.resources
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojeto.accdb
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.Designer.vb
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.xsc
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.xsd
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\bdprojetoDataSet.xss
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.exe.config
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.exe
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.pdb
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\bin\Debug\ProjetoM17A.xml
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.vbprojAssemblyReference.cache
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Carros.resources
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Clientes.resources
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Index.resources
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Resources.resources
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.Vendas.resources
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.vbproj.GenerateResource.cache
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.vbproj.CoreCompileInputs.cache
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.exe
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.xml
+D:\Zé Narciso\ProjetoM17A\ProjetoM17A\obj\Debug\ProjetoM17A.pdb
